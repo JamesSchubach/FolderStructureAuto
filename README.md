@@ -16,6 +16,8 @@ pip install watchdog
 To run the script, it is a simple as typing this command where the script is located.
 FOLDER_PATH: Represents the path to which folder you want organised.
 i.e: C:\Users\schub\Downloads
+<br>
+# Important do not have script in the folder you are trying to reorganize 
 ```bash
 python3 folder_structure_auto.py FOLDER_PATH
 ```
