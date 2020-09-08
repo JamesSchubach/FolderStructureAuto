@@ -19,6 +19,7 @@ i.e: C:\Users\schub\Downloads
 ```bash
 python3 folder_structure_auto.py FOLDER_PATH
 ```
+To exit, press Ctrl+c to stop the script from running
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
