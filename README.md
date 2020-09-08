@@ -18,6 +18,7 @@ FOLDER_PATH: Represents the path to which folder you want organised.
 i.e: C:\Users\schub\Downloads
 <br>
 **Important do not have script in the folder you are trying to reorganize**
+<br>
 Once the script has started, simply either leave it running to organize any incoming files or drag a file in to reorgonize the folder
 ```bash
 python3 folder_structure_auto.py FOLDER_PATH
